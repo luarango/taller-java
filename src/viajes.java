@@ -9,7 +9,7 @@ public class viajes{
         if (edad > 18 && Pasaporte == 1) {
             System.out.println("Puede viajar");
         } else {
-            System.out.println("No puede viajar");
+            System.out.println("No puede viajar");//arroja si puede viajar
         }
     }
 }
